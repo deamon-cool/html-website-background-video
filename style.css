@@ -24,12 +24,25 @@ h2 {
 
 h3 {
     text-align: center;
+    font-size: 2em;
+    color: #4b4b4b;
+}
+
+h4 {
+    text-align: center;
+    font-size: 1.5em;
+    color: #4b4b4b;
+}
+
+h5 {
+    text-align: center;
+    font-size: 1em;
     color: #4b4b4b;
 }
 
 p {
     text-align: justify;
-    color: orange;
+    color: rgb(255, 191, 72);
 }
 
 #logo {
