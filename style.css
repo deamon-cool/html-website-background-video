@@ -18,6 +18,12 @@ h1 {
     font-size: 5em;
 }
 
+hr {
+    border: 0;
+    height: 5px;
+    background: #eaeaea;
+}
+
 h2 {
     font-size: 2.5em;
 }
