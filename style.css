@@ -24,10 +24,12 @@ h2 {
 
 h3 {
     text-align: center;
+    color: #4b4b4b;
 }
 
 p {
     text-align: justify;
+    color: orange;
 }
 
 #logo {
